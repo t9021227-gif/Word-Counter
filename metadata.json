@@ -1,0 +1,6 @@
+{
+  "name": "Word Counter",
+  "description": "An intuitive, beautifully crafted pink-themed word and character counter with real-time analytics, readability scoring, keyword density, and text tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
